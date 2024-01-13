@@ -6,16 +6,17 @@
 ![](/1.jpeg)
 
 Project link
-- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
+- <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/Food-Partnering-Services-Analysis)
 
 Skills
-- Knime |  Data Analysis | Predictive Analytics 
+- Python |  web scraping | selenium web driver | Data wrangling | sentimental Analysis
 
 About this project
-- This Project examines the risk factors for injury severity in car crashes, Leveraging an authentic crash dataset from the U.S. Department of Transportation, sourced specifically from the National Highway Traffic Safety Administration.
+-  Led a restaurant data scraping initiative, showcasing advanced data acquisition skills, and delivered strategic insights using statistical sentimental analysis to empower emerging merchants with effective collaboration strategies, emphasizing recommendations based on food products and customer-centric details for optimal results.
+
 
 Impact of this project
-- The insights are valuable for anyone dedicated to improving road safety, the Healthcare Industry, the Insurance Industry, the Car Manufacturing Industry, and many more.
+- Food-based Industries, Upcoming food merchants .
 
 ********************************************************************************************************************************
 ********************************************************************************************************************************
