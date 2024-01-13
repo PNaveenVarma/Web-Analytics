@@ -3,7 +3,7 @@
 ## 1
 <h1>Driver injury severity analysis in automobile crashes using Knime </h1>
 
-![](/assets/carcrash.jpeg)
+![](/1.jpeg)
 
 Project link
 - <img src="/assets/github.jpeg" alt="Alt Text" width="40" height="40"> [GitHub](https://github.com/PNaveenVarma/-Driver-injury-severity-analysis-in-automobile-crashes)
